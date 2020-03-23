@@ -81,6 +81,7 @@ public class HomePageMailTest extends base{
 	    @And("^The browser is closed$")
 	    public void the_browser_is_closed() throws Throwable {
 	    	driver.close();
+	    	System.out.println("Closed");
 	    }
 	    
 	    @Given("^User clicks on Rediffmail icon$")
