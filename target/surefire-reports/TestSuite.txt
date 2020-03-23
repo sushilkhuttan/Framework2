@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 296.825 s <<< FAILURE! - in TestSuite
+MyFramework.SignIn.Login  Time elapsed: 17.181 s  <<< FAILURE!
+java.lang.NullPointerException
+
+MyFramework.OpenHomePage.Homepage  Time elapsed: 98.164 s  <<< FAILURE!
+java.lang.NullPointerException
+
