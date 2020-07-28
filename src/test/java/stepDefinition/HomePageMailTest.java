@@ -17,7 +17,7 @@ import io.cucumber.java.en.When;
 import io.cucumber.junit.Cucumber;
 import junit.framework.Assert;
 import resources.base;
-
+//Add Comment for git
 //@RunWith(Cucumber.class)
 public class HomePageMailTest extends base{
 	HomePage hp;
