@@ -30,7 +30,7 @@ public class SignInPage extends base{
     	RediffMailPage rmp = new RediffMailPage(driver);
     	rmp.forgotlink().click();
     }
-
+//Test
     @Then("^Forgot password page opens$")
     public void forgot_password_page_opens() throws Throwable {
        ForgotYourPassword fyp = new ForgotYourPassword(driver);
